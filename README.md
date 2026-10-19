@@ -1,0 +1,1 @@
+My First Python Code 🚀Hi, I am Tushar Singh! This is Day 1 of my coding journey.Code: print("hello, I am Tushar Singh")What I learned: VS Code + Python + GitHubGoal: To become a professional developer
